@@ -5,6 +5,7 @@
 *.iws
 .idea/
 out/
+gen/
 
 #################
 ## Eclipse
